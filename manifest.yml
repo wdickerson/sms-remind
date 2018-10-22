@@ -1,0 +1,6 @@
+---
+applications:
+- name: sms-remind
+  random-route: true
+  memory: 256M
+  path: target/SmsRemind.war
